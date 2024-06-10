@@ -10,10 +10,8 @@ using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
 using Swashbuckle.AspNetCore.SwaggerGen;
 using System.Text;
-<<<<<<< HEAD
 using Hotel_Cabins.ConfigOptions;
 using Hotel_Cabins.Middlewares;
-=======
 using VillaAPI.ConfigOptions;
 using VillaAPI.Middlewares;
 >>>>>>> fbb2cc5677c74bdfd87f266c61e051f998404df9
